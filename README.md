@@ -5,7 +5,7 @@
 
 - 🎓 I am currently in 2nd year, B.Tech in Information Technology from IEM,Kolkata
 - 👨‍💻 I am a web development enthusiast.
-- 👯 I am into Competitive Programming from last 6 months.
+- 👯 I am into Competitive Programming from last 11 months.
 - 🔭 I learnt DJANGO and created a Blog Engine [project](https://github.com/i-jayesh/blograam)
 - 👨‍💻 Currently learning Data Stuctures and Algorithms, Javascript and exploring opensource.
 - 💬 Reach out to me for DSA, Web Development and anything related to Competitive Programming.
