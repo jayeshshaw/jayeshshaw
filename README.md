@@ -7,7 +7,7 @@
 - 👨‍💻 I am a web development enthusiast.
 - 👯 I am into Competitive Programming from last 1 year.
 - 🔭 I learnt DJANGO and created a Blog Engine [project](https://github.com/i-jayesh/blograam)
-- 👨‍💻 Currently learning Data Stuctures and Algorithms, Javascript and exploring opensource.
+- 👨‍💻 Currently learning NODE, EXPRESS and REACT and exploring opensource.
 - 💬 Reach out to me for DSA, Web Development and anything related to Competitive Programming.
 
 ---
