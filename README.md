@@ -53,11 +53,10 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)    
 
-<br />
 
 
 
-#### Connect With Me
+### Connect With Me
 
 <p left="center">
 <a href="https://twitter.com/jayesh__shaw">
