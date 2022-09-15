@@ -7,7 +7,7 @@
     <img src="https://raw.githubusercontent.com/jayeshshaw/cf-stats/main/output/rating.svg" alt="Leet code rating" />
   </a>
   <a href="https://github.com/jayeshshaw/">
-    <img src="https://komarev.com/ghpvc/?username=jayesh_shaw" alt="visitors" />
+    <img src="https://komarev.com/ghpvc/?username=jayeshshaw" alt="visitors" />
   </a>
 
 </p>
