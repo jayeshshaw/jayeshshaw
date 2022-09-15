@@ -4,7 +4,7 @@
     <img src="https://cp-logo.vercel.app/leetcode/jayesh_shaw" alt="Leet code rating" />
   </a>
   <a href="https://codeforces.com/profile/jayesh_shaw">
-    <img src="https://raw.githubusercontent.com/jayeshshaw/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+    <img src="https://cp-logo.vercel.app/codeforces/jayesh_shaw" alt="Leet code rating" />
   </a>
   <a href="https://github.com/jayeshshaw/">
     <img src="https://komarev.com/ghpvc/?username=jayeshshaw" alt="visitors" />
