@@ -17,10 +17,9 @@
 ## I'm a Tech Enthusiast , Web Developer, Competitive Programmer and a passionate learner. 
 
 - 🎓 I am currently in 3rd year, B.Tech in Information Technology from IEM,Kolkata
-- 👨‍💻 I am a web development enthusiast.
-- 👯 I am into Competitive Programming from last 1 year.
-- 🔭 I learnt DJANGO and created a Blog Engine [project](https://github.com/i-jayesh/blograam)
-- 👨‍💻 Currently learning NODE, EXPRESS and REACT and exploring opensource.
+- 👨‍💻 I am a web development enthusiast, currently exploring the world of WEB3.0.
+- 👯 I am into Competitive Programming from last 3 years, thus got some great debugging skills.
+- 👨‍💻 Currently learning backend using NODEJS and MONGODB and exploring opensource.
 - 💬 Reach out to me for DSA, Web Development and anything related to Competitive Programming.
 
 
